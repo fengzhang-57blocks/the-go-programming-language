@@ -46,8 +46,12 @@
     &quot;RunOnceActivity.go.watchers.conflict.with.on.save.actions.check.performed&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+<<<<<<< HEAD
     &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/feng.zhang&quot;
+=======
+    &quot;last_opened_file_path&quot;: &quot;/Users/57block&quot;
+>>>>>>> 8b351e7e24fe893e3e044d085ad3dec2a6e8db76
   }
 }</component>
   <component name="RecentsManager">
@@ -55,6 +59,7 @@
       <recent name="$PROJECT_DIR$/ch1/helloword" />
     </key>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Go Build.go build the-go-programming-language/ch1/dup2">
     <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="the-go-programming-language" />
@@ -81,6 +86,9 @@
       <filePath value="$PROJECT_DIR$/ch1/dup2/main.go" />
       <method v="2" />
     </configuration>
+=======
+  <component name="RunManager" selected="Go Build.go build the-go-programming-language/ch1/server1">
+>>>>>>> 8b351e7e24fe893e3e044d085ad3dec2a6e8db76
     <configuration name="go build the-go-programming-language/ch1/echo1" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="the-go-programming-language" />
       <working_directory value="$PROJECT_DIR$" />
@@ -99,6 +107,7 @@
       <filePath value="$PROJECT_DIR$/ch1/echo2/main.go" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <recent_temporary>
       <list>
         <item itemvalue="Go Build.go build the-go-programming-language/ch1/dup2" />
@@ -106,6 +115,42 @@
         <item itemvalue="Go Build.go build main.go" />
         <item itemvalue="Go Build.go build the-go-programming-language/ch1/echo2" />
         <item itemvalue="Go Build.go build the-go-programming-language/ch1/echo1" />
+=======
+    <configuration name="go build the-go-programming-language/ch1/helloword" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="the-go-programming-language" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="the-go-programming-language/ch1/helloword" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/ch1/helloword/helloword.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build the-go-programming-language/ch1/lissajous" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="the-go-programming-language" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="the-go-programming-language/ch1/lissajous" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/ch1/lissajous/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build the-go-programming-language/ch1/server1" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="the-go-programming-language" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="the-go-programming-language/ch1/server1" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/ch1/server1/main.go" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build the-go-programming-language/ch1/server1" />
+        <item itemvalue="Go Build.go build the-go-programming-language/ch1/lissajous" />
+        <item itemvalue="Go Build.go build the-go-programming-language/ch1/echo2" />
+        <item itemvalue="Go Build.go build the-go-programming-language/ch1/echo1" />
+        <item itemvalue="Go Build.go build the-go-programming-language/ch1/helloword" />
+>>>>>>> 8b351e7e24fe893e3e044d085ad3dec2a6e8db76
       </list>
     </recent_temporary>
   </component>
